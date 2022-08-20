@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  justify-content: center;
+}
+.footer div {
+  padding: 5px;
+}
+
+h1,
+p,
+a {
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  background-color: rgb(212, 176, 235);
+  color: rgb(165, 37, 177);
+}
